@@ -244,7 +244,7 @@ export default function GeneratePDF() {
             <div class="header">
                 <div class="logo">
                     <div class="logo-icon">
-                        <img src="https://drive.google.com/uc?export=view&id=1Nq00qx7QdPw8iePb-20XDJX_xlAu24N_" alt="Logo" class="logo-img">
+                        <img src="/logo1.png" alt="Logo" class="logo-img">
           </div>
                     <div class="logo-text-container">
                         <span class="logo-text">Levitation</span>
